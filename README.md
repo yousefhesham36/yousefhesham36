@@ -1,5 +1,5 @@
 # 💫 **Yousef Hesham** 
-### *Frontend Magician* | React & Flutter Expert ✨  
+### *Frontend Developer* | React & Flutter Expert ✨  
 
 <!-- Banner with Animation -->
 <div align="center">
