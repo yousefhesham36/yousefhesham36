@@ -10,13 +10,35 @@
 
 ## 🛠 **Tech Stack**  
 <!-- Animated Skill Icons -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
+<div align="center" style="max-width: 800px; margin: auto; display: flex; flex-direction: column; align-items: center; gap: 20px;">
+
+<!-- My Tech Stack using skillicons.dev - مفصلة أيقونة أيقونة -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <!-- Core Frontend & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=html" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=css" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=sass" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=js" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=ts" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=dart" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" style="margin: 10px;" />
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; margin-top: 10px;">
+  <!-- Cross-platform & Tools -->
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=react" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=redux" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=flutter" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="50" style="margin: 10px;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/240px-ChatGPT_logo.svg.png" width="50" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=figma" width="50" style="margin: 10px;" />
+</div>
+
+
+</div>
 
 <!-- GitHub Stats with Animation -->
 <div align="center">
