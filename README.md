@@ -1,42 +1,27 @@
-# 💫 **Yousef Hesham** 
-### *Frontend Developer* | React & Flutter Expert ✨  
-
-<!-- Banner with Animation -->
+🚀 Yousef Hesham - Frontend Developer
+Building Digital Experiences with Passion
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFD700&width=600&height=80&lines=Welcome+to+My+Profile!;Let's+Build+Something+Awesome!" alt="Typing Animation" />
+https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FFD700&width=700&center=true&lines=Hello+World!;Welcome+to+My+Profile!;Let's+Build+Something+Awesome!
+
 </div>
-
----
-
-## 🛠 **Tech Stack**  
-<!-- Animated Skill Icons -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
-<!-- GitHub Stats with Animation -->
+🔥 My Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,tailwind,figma,git,github" alt="Tech Stack" /> </p>
+📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YousefHesham&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&hide_border=true#gh-dark-mode-only" alt="GitHub Stats" width="500" />
+https://github-readme-stats.vercel.app/api?username=YousefHesham&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&hide_border=true
+https://github-readme-stats.vercel.app/api/top-langs/?username=YousefHesham&layout=compact&theme=dark&bg_color=000000&title_color=FFD700&text_color=FFFFFF&hide_border=true
+
 </div>
+📫 How to Reach Me
+<p align="center"> <a href="mailto:youremail@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+🛠 How to Use This File:
+Replace YousefHesham with your GitHub username everywhere
 
----
+Change all links (email, LinkedIn) to your actual profiles
 
-## 📫 **Connect with Me**  
-<!-- Animated Contact Button -->
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" />
-  </a>
-</p>
+Customize the tech stack icons (from skillicons.dev)
 
-<!-- Snake Animation (GitHub Contributions) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation" />
-</div>
+Save as README.md in your profile repository
+
+Note: You don't need the banner GIF to start - the typing effect works alone!
+
