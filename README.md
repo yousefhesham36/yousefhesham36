@@ -1,27 +1,14 @@
-🚀 Yousef Hesham - Frontend Developer
-Building Digital Experiences with Passion
-<div align="center">
-https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FFD700&width=700&center=true&lines=Hello+World!;Welcome+to+My+Profile!;Let's+Build+Something+Awesome!
-
-</div>
-🔥 My Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,tailwind,figma,git,github" alt="Tech Stack" /> </p>
-📊 My GitHub Stats
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=YousefHesham&show_icons=true&theme=dark&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&hide_border=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=YousefHesham&layout=compact&theme=dark&bg_color=000000&title_color=FFD700&text_color=FFFFFF&hide_border=true
-
-</div>
-📫 How to Reach Me
-<p align="center"> <a href="mailto:youremail@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-🛠 How to Use This File:
-Replace YousefHesham with your GitHub username everywhere
-
-Change all links (email, LinkedIn) to your actual profiles
-
-Customize the tech stack icons (from skillicons.dev)
-
-Save as README.md in your profile repository
-
-Note: You don't need the banner GIF to start - the typing effect works alone!
-
+💫 Yousef Hesham
+Frontend Developer ✨
+Crafting Digital Experiences with Pixel-Perfect Precision
+<!-- Animated Banner with Particles Effect --><div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1000&color=00D4FF&width=800&height=100&lines=🚀+Welcome+to+My+Creative+Universe!;🛠️+Full-Stack+Alchemist;🌌+Turning+Code+Into+Art&center=true" alt="Typing Animation" /> </div>
+🔥 Tech Arsenal
+<!-- 3D Animated Skill Icons with Hover Effects --><p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=121212" height="40" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=121212" height="40" /> <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black&labelColor=121212" height="40" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=121212" height="40" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=121212" height="40" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=121212" height="40" /> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=121212" height="40" /> </p>
+🚀 My Digital Playground
+<!-- GitHub Stats with Glow Effect --><div align="center"> <a href="https://github.com/YousefHesham"> <img src="https://github-readme-stats.vercel.app/api?username=YousefHesham&show_icons=true&theme=radical&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&hide_border=true&count_private=true&include_all_commits=true" width="500" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YousefHesham&theme=radical&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FFD700&currStreakNum=FFFFFF&sideNums=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF" width="500" /> </a> </div><!-- Trophy Case --><div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=YousefHesham&theme=radical&no-bg=true&no-frame=true&title=Stars,Commit,Repositories,PullRequest&margin-w=15&margin-h=15&column=5" alt="Trophies" /> </div>
+🌌 Featured Projects
+<!-- Project Cards with Glow Effect --><div align="center"> <a href="https://github.com/YousefHesham/Project1"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YousefHesham&repo=Project1&theme=radical&bg_color=0d1117&title_color=00D4FF&text_color=FFFFFF&icon_color=FFD700" /> </a> <a href="https://github.com/YousefHesham/Project2"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=YousefHesham&repo=Project2&theme=radical&bg_color=0d1117&title_color=00D4FF&text_color=FFFFFF&icon_color=FFD700" /> </a> </div>
+📈 Coding Activity
+<!-- Wakatime Stats --><div align="center"> <img src="https://wakatime.com/share/@YousefHesham/018a3f5d-3b3e-4a2f-9b3d-5c5f3b3d3b3d.svg" width="600" /> </div>
+🌟 Let's Connect
+<!-- Animated Contact Buttons with Hover Effects --><p align="center"> <a href="https://linkedin.com/in/yousefhesham"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=121212" height="40" /> </a> <a href="https://twitter.com/yousefhesham"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=121212" height="40" /> </a> <a href="mailto:yousef@example.com"> <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black&labelColor=121212" height="40" /> </a> <a href="https://yousefhesham.dev"> <img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=121212" height="40" /> </a> </p><!-- 3D Animated Visitors Counter --><div align="center"> <img src="https://komarev.com/ghpvc/?username=YousefHesham&label=PROFILE+VIEWS&color=00D4FF&style=for-the-badge&labelColor=121212" alt="Profile Views" /> </div><!-- Matrix Code Rain Animation --><div align="center"> <img src="https://raw.githubusercontent.com/YousefHesham/YousefHesham/main/matrix.svg" alt="Matrix Animation" width="100%" /> </div><details> <summary>✨ <b>Fun Fact</b></summary> <br> <div align="center"> <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Jokes Card" /> </div> </details>
